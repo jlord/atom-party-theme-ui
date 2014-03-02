@@ -1,9 +1,9 @@
 {
-  "name": "atom-light-ui",
+  "name": "jlord-party-ui",
   "theme": "ui",
   "version": "0.22.0",
-  "description": "Default light theme for interface components",
-  "repository": "https://github.com/atom/atom-light-ui.git",
+  "description": "Neons",
+  "repository": "https://github.com/jlord/jlord-party-ui.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
