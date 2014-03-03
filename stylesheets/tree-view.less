@@ -1,11 +1,15 @@
 @import "ui-variables";
 
+.tree-view-resizer:before {
+	content: "";
+	display: block;
+	height: 32px;
+	border-bottom: 1px solid @tab-border-color;
+}
+
 .tree-view {
 	font-size: @font-size;
-	margin-top: 31px;
-	padding-bottom: 31px;
 	background: @tree-view-background-color;
-	border-top: 1px solid @tab-border-color;
 
 	.selected:before {
 		background: #C1C1C1;
@@ -13,7 +17,8 @@
 }
 
 .focusable-panel {
-	opacity: 1;
+	position: relative;
+	padding-bottom: 32px;
 	// background-image: -webkit-gradient(linear, left top, left bottom, from(#e8ecf1), to(#ebebeb));
 	// background-image: -webkit-linear-gradient(top, #e8ecf1, #ebebeb);
 
@@ -29,7 +34,8 @@
 		.selected > .name:before,
 		.selected > .list-item > .name,
 		.selected > .list-item > .name:before {
-			color: #fff !important;
+			// color: #fff !important;
+			color: #333 !important;
 		}
 	}
 }
