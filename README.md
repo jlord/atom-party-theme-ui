@@ -1,9 +1,15 @@
-# Atom Light UI theme
+# Atom (Neon) Party Theme
 
-Default light UI theme for Atom.
+A light (and bright) UI Theme for Atom. It looks :sparkles: with my neon party syntax theme.
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_UI Themes_ drop-down menu.
+Things about this:
 
-![](https://f.cloud.github.com/assets/671378/2265022/bb148a20-9e7a-11e3-81c8-bf5965d48183.png)
+- Tree view pushed down to start where tabs start
+- Tabs pushed left to start after the line number column
+- Less gradients, more white.
+
+**I'm still working on this so it's not published to Atom's APM yet, but if you want to download and install it from here, have at it!**
+
+![screenshot](atom-party-theme.png)
+
+_A more thorough readme when I'm finished and it's published._
