@@ -1,6 +1,6 @@
 # Atom (Neon) Party Theme
 
-A light (and bright) UI Theme for Atom. It looks :sparkles: with my neon party syntax theme.
+A light (and bright) UI Theme for Atom. It looks :sparkles: with my [neon party syntax theme](https://github.com/jlord/atom-party-theme).
 
 Things about this:
 
@@ -12,4 +12,4 @@ Things about this:
 
 ![screenshot](atom-party-theme.png)
 
-_A more thorough readme when I'm finished and it's published._
+_A more thorough readme and better screen shot later._
