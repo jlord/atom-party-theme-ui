@@ -1,15 +1,13 @@
-# Atom (Neon) Party Theme
+# Atom (Neon) Party Theme :heart:
 
-A light (and bright) UI Theme for Atom. It looks :sparkles: with my [neon party syntax theme](https://github.com/jlord/atom-party-theme).
-
-Things about this:
+Light 80's Neon Party!
 
 - Tree view pushed down to start where tabs start
 - Tabs pushed left to start after the line number column
-- Less gradients, more white.
+- Flatness
+- Lightness
+- Neonness
 
-**I'm still working on this so it's not published to Atom's APM yet, but if you want to download and install it from here, have at it!**
+![img](http://f.cl.ly/items/2A0u2T0f200f2U0Y3B3l/Screen%20Shot%202014-05-24%20at%2012.47.10%20PM.png)
 
-![screenshot](atom-party-theme.png)
-
-_A more thorough readme and better screen shot later._
+I've been scrappily hacking on this so it's not polished, that's why I've got it here and not also on Atom's APM. If I clean it up, I'll put it there, but you can still learn from or use it if ya want!
